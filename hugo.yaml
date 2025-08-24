@@ -110,7 +110,6 @@ menu:
       params:
         type: language-switch
         label: false # optional, default is false
-        icon: "globe-alt" # optional, default is "translate"
 
   sidebar:
     - identifier: more
