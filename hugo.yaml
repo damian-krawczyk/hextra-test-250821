@@ -29,16 +29,6 @@ languages:
     languageDirection: rtl
     weight: 2
     title: هگزترا
-  ja:
-    languageName: 日本語
-    languageCode: ja
-    weight: 3
-    title: Hextra
-  zh-cn:
-    languageName: 简体中文
-    languageCode: zh-CN
-    weight: 4
-    title: Hextra
 
 module:
   hugoVersion:
